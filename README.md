@@ -1,2 +1,2 @@
-# Task #1-Airfare-price-prediction
+# Task #1-Airfare_price_prediction
 Prediction of airfare prices
