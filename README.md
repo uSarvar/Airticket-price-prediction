@@ -1,3 +1,3 @@
 # Task #1-Airfare price prediction
-Predictionof airfare prices.
+Prediction of airfare prices.
     
